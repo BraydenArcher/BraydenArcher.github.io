@@ -1,11 +1,15 @@
-theme: jekyll-theme-minimal
-title: [Brayden Archer]
-description: [A website/blog to show off some of the projects I do and learn about on my own time]
+#Theme Info
+theme                  : "minimal-mistakes-jekyll"
+#remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark"
 
-#Author Info
-author:
-  name: "Brayden Archer"
-  avatar: "assets/images/Headshot.JPG"
-  location: "Baltimore, MD"
-  bio: "A website/blog to show off some of the projects I do and learn ab\
-out on my own time"
+#Basic Site Info
+locale: "en-US"
+url: "https://BraydenArcher.github.io"
+repository: "BraydenArcher/BraydenArcher.github.io"
+breadcrumbs: true
+
+
+#Basic Brayden Info
+title: Brayden Archer
+author: brayden_archer
