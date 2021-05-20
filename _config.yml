@@ -1,6 +1,6 @@
 #Theme Info
 theme                  : "minimal-mistakes-jekyll"
-#remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark"
 
 #Basic Site Info
