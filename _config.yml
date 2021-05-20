@@ -13,3 +13,19 @@ breadcrumbs: true
 #Basic Brayden Info
 title: Brayden Archer
 author: brayden_archer
+
+
+#Stuff for GitHub
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
