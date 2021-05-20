@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: [Brayden Archer]
 description: [A website/blog to show off some of the projects I do and learn about on my own time]
-avatar: assets/images/Headshot.JPG
+avatar: [assets/images/Headshot.JPG]
+location: "Baltimore, MD"
