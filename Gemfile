@@ -9,3 +9,4 @@ gem "github-pages", "~> 214", group: :jekyll_plugins
 
 gem "webrick", "~> 1.7"
 gem "minimal-mistakes-jekyll"
+gem "jekyll-include-cache", group: :jekyll_plugins

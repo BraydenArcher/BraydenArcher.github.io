@@ -272,6 +272,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 214)
+  jekyll-include-cache
   minimal-mistakes-jekyll
   webrick (~> 1.7)
 
